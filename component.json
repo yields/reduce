@@ -1,0 +1,17 @@
+{
+  "name": "reduce",
+  "repo": "yields/reduce",
+  "description": "reduce anything",
+  "version": "0.0.1",
+  "keywords": ["reduce"],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "component/each": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  }
+}
